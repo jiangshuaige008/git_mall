@@ -15,6 +15,7 @@ public class MallApplication {
         Object jiang = run.getBean("jiang");
         Object jiang2 = run.getBean("jiangmaster");
         Object jiang1 = run.getBean("jiang");
+        System.out.println("push commit");
 
     }
 
