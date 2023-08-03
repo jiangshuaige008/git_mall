@@ -16,6 +16,7 @@ public class MallApplication {
         Object jiang2 = run.getBean("jiangmaster");
         Object jiang1 = run.getBean("jiang");
         System.out.println("push commit");
+        System.out.println("push commit,本地改");
 
     }
 
