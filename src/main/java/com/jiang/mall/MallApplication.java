@@ -18,7 +18,7 @@ public class MallApplication {
         System.out.println("push commit");
         System.out.println("push commit,本地改");
          System.out.println("pull commit");
-
+         System.out.println("pull commit2");
 
     }
 
