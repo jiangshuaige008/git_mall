@@ -14,6 +14,7 @@ public class MallApplication {
         System.out.println("hell.git4");
         Object jiang = run.getBean("jiang");
         Object jiang2 = run.getBean("jiangmaster");
+        Object jiang1 = run.getBean("jiang");
 
     }
 
