@@ -13,6 +13,7 @@ public class MallApplication {
         ConfigurableApplicationContext run = SpringApplication.run(MallApplication.class, args);
         System.out.println("hell.git4");
         Object jiang = run.getBean("jiang");
+        Object jiang1 = run.getBean("jiang");
 
     }
 
